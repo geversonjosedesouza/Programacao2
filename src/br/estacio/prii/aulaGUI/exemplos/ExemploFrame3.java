@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.estacio.prii.aulaGUI.exercicios;
+package br.estacio.prii.aulaGUI.exemplos;
 
 import javax.swing.JFrame;
 

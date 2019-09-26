@@ -3,16 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.estacio.prii.aulaGUI.exercicios;
+package br.estacio.prii.exemplosGUI;
 
 /**
  *
  * @author geverson
  */
-public class ExemploFrame2 {
-
-    public static void main(String[] args) {
-        new FrameExemplo();
-    }
-
+public class EventoTecla {
+    
 }
